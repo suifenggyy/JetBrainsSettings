@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7609</Count>
+          <Count>7610</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1297,6 +1297,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MultiStreamTra....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'MultiStreamTra....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MultiSubDocBeh....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1919,6 +1927,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MrpItemInfoRecmdServiceImpl'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MultiStreamTransformations'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MultiStreamTransformations'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MultiSubDocBehindUDF'">
