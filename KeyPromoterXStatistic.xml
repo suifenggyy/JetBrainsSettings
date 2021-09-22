@@ -1622,7 +1622,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'TestJava2.main()'</Description>
-          <Count>53</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ThreadLocalLearn.main()'">
