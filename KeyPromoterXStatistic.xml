@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7626</Count>
+          <Count>7629</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1135,6 +1135,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'IquanSqlMain.main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ItemCateTabFil....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ItemCateTabFil....main()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ItemDiamondCon....main()'">
