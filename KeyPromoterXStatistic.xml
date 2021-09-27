@@ -1718,7 +1718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'testDistinct()'</Description>
-          <Count>141</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testPoint()'">
