@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7735</Count>
+          <Count>7736</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'testDistinct()'</Description>
-          <Count>138</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testPoint()'">
