@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7758</Count>
+          <Count>7766</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1033,6 +1033,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BasicTransform....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'BasicTransform....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CacheKeyUdf.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1175,6 +1183,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ItemrpThreadPo....main()'</Description>
           <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'KeyedTransform....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'KeyedTransform....main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LeetCode.main()'">
@@ -1817,6 +1833,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BasicTransformations'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BasicTransformations'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ColumnModuleLevelFilter'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1871,6 +1895,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ItemrpThreadPoolExecutor'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'KeyedTransformations'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'KeyedTransformations'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LeetCode'">
