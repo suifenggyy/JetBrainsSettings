@@ -646,7 +646,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7801</Count>
+          <Count>7803</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1654,7 +1654,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'TestJava2.main()'</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ThreadLocalLearn.main()'">
