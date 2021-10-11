@@ -646,7 +646,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7811</Count>
+          <Count>7815</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -838,7 +838,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'alscomp'">
