@@ -473,6 +473,14 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TestJava3.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'TestJava3.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TimeUdf.main()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1657,6 +1665,14 @@
           <Count>115</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TestJava3.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TestJava3.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ThreadLocalLearn.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2137,6 +2153,14 @@
           <Count>39</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TestJava3'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestJava3'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ThreadLocalLearn'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2358,7 +2382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1048</Count>
+          <Count>1049</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
