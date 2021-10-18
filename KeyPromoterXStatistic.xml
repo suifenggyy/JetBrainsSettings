@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7900</Count>
+          <Count>7904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1119,6 +1119,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CustomTagCodeUdf.main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DateUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DateUtil.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DebugUtils.main()'">
