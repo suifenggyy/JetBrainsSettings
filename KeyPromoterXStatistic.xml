@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7927</Count>
+          <Count>7931</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2398,7 +2398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1057</Count>
+          <Count>1058</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
