@@ -478,7 +478,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'TestJava3.main()'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TimeUdf.main()'">
@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7971</Count>
+          <Count>7972</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'TestJava3.main()'</Description>
-          <Count>31</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ThreadLocalLearn.main()'">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestJava3'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ThreadLocalLearn'">
@@ -2398,7 +2398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1058</Count>
+          <Count>1060</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
