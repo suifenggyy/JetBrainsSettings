@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7994</Count>
+          <Count>7996</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -726,7 +726,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
