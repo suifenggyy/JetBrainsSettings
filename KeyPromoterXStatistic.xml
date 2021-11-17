@@ -1137,6 +1137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DishStoreTagsUDF.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DishStoreTagsUDF.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Function.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
