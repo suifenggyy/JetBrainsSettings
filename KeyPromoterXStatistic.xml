@@ -38,7 +38,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>291</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -654,7 +654,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8171</Count>
+          <Count>8214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -662,7 +662,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>52</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate Watch">
@@ -830,7 +830,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>592</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -942,7 +942,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>90</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -982,7 +982,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>135</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1134,6 +1134,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'DebugUtils.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DishStoreTagsUDF.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DishStoreTagsUDF.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2390,7 +2398,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2398,7 +2406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1063</Count>
+          <Count>1064</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
