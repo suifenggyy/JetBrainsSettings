@@ -814,7 +814,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'⌃⌥O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -846,7 +846,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>601</Count>
+          <Count>602</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
