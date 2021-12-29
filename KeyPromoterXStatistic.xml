@@ -670,7 +670,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8373</Count>
+          <Count>8378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -846,7 +846,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>603</Count>
+          <Count>604</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
