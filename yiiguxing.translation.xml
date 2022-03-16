@@ -1,5 +1,11 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="A stage of a possibly asynchronous computation, that performs an action or computes a value when another CompletionStage completes. A stage completes upon termination of its computation, but this may in turn trigger other dependent stages. The functionality defined in this interface takes only a few basic forms, which expand out to a larger set of methods to capture a range of usage styles: &lt;ul&gt;" />
+      <item value="stage" />
+    </histories>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646711381123" />
+    <option name="lastTrimTime" value="1647426039394" />
   </component>
 </application>
