@@ -1,0 +1,5 @@
+<application>
+  <component name="com.alibaba.kondyle.plugin.idea.settings.TppSettingsState">
+    <option name="listenPort" value="7001" />
+  </component>
+</application>
