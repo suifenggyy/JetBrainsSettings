@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hybrid" />
       <item value="delegate" />
       <item value="wrapper" />
       <item value="wrap" />
@@ -12,6 +13,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651738641256" />
+    <option name="lastTrimTime" value="1652253795741" />
   </component>
 </application>
