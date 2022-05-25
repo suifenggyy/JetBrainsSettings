@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concatenation" />
       <item value="retain" />
       <item value="Dedup" />
       <item value="Hybrid" />
@@ -15,6 +16,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652948417104" />
+    <option name="lastTrimTime" value="1653469178730" />
   </component>
 </application>
