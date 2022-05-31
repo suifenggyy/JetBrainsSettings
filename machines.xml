@@ -1,0 +1,7 @@
+<application>
+  <component name="DevMachine">
+    <option name="devMachineMap" value="[]" />
+    <option name="healthCheckMap" value="{&quot;path&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;,&quot;port&quot;:0,&quot;type&quot;:&quot;CURL&quot;}" />
+    <option name="commandMap" value="[]" />
+  </component>
+</application>
