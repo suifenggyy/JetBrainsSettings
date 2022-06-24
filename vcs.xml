@@ -214,9 +214,13 @@
           <option name="url" value="git@gitlab.alibaba-inc.com:tpp-open/relationrecommend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:pandora-boot/pandora-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/koubei/tpp" />
+    <option name="cloneParentDir" value="$USER_HOME$/koubei" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
