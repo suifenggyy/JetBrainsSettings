@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
       <item value="Ingestion" />
       <item value="concatenation" />
       <item value="retain" />
@@ -23,6 +24,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655110377656" />
+    <option name="lastTrimTime" value="1657510949186" />
   </component>
 </application>
