@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="existent" />
       <item value="Criteria" />
       <item value="Ingestion" />
       <item value="concatenation" />
@@ -19,11 +20,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657510949186" />
+    <option name="lastTrimTime" value="1658287299741" />
   </component>
 </application>
