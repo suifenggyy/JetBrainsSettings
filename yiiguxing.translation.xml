@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="existent" />
       <item value="Criteria" />
+      <item value="existent" />
       <item value="Ingestion" />
       <item value="concatenation" />
       <item value="retain" />
