@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transition" />
+      <item value="invocation" />
       <item value="Criteria" />
       <item value="existent" />
       <item value="Ingestion" />
@@ -25,6 +27,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662026348608" />
+    <option name="lastTrimTime" value="1663557716150" />
   </component>
 </application>
