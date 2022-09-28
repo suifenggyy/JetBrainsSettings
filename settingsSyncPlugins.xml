@@ -106,6 +106,7 @@
                   <option value="org.jetbrains.idea.maven" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
