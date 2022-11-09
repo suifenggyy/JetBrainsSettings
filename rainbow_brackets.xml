@@ -1,7 +1,9 @@
 <application>
   <component name="RainbowSettings">
+    <option name="cycleCountOnAllBrackets" value="true" />
     <option name="doNOTRainbowifyBigFiles" value="false" />
     <option name="enableRainbowVariables" value="true" />
+    <option name="numberOfColors" value="8" />
     <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="version" value="2022.3.3.1-ij" />
   </component>
