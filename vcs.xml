@@ -234,6 +234,10 @@
           <option name="url" value="https://github.com/fwcd/macromaker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:kbsearch/alsc-selection-batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/koubei" />
