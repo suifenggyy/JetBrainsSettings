@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synonym" />
+      <item value="transition" />
+      <item value="invocation" />
       <item value="Criteria" />
       <item value="existent" />
       <item value="Ingestion" />
@@ -19,12 +22,26 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658287299741" />
+    <option name="lastTrimTime" value="1669603632901" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1671348328172" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Multiple" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
   </component>
 </application>
