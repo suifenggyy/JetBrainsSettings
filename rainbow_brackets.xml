@@ -4,10 +4,8 @@
     <option name="disableRainbowIndentsInZenMode" value="false" />
     <option name="doNOTRainbowifyBigFiles" value="false" />
     <option name="doNOTRainbowifyTemplateString" value="true" />
-    <option name="enableRainbowVariables" value="true" />
     <option name="numberOfColors" value="6" />
-    <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="useColorGenerator" value="true" />
-    <option name="version" value="2022.3.4-ij" />
+    <option name="version" value="6.18" />
   </component>
 </application>
