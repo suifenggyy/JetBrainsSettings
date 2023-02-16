@@ -12,16 +12,8 @@
           </value>
         </entry>
         <entry key="asdi-fork" />
-        <entry key="select_engine">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="simple_java">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="select_engine" />
+        <entry key="simple_java" />
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
