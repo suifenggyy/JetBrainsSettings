@@ -2,8 +2,7 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="idea.plugin.protoeditor" />
-        <option value="com.intellij.guice" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>

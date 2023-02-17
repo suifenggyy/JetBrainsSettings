@@ -13,7 +13,12 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="DBNavigator.Project.DatasetEditorStatusBarWidgetFactory" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="aws.codewhisperer" value="false" />
+        <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
+        <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
+        <entry key="mtThemeFactory" value="false" />
       </map>
     </option>
   </component>
