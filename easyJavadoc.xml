@@ -5,14 +5,28 @@
     <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
+        <entry key="alsc-selection-batch">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alsc-selection-ops" />
         <entry key="alscomp">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="ares-dump-udtf">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="asdi-fork" />
-        <entry key="select_engine" />
+        <entry key="select_engine">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="simple_java" />
       </map>
     </option>
