@@ -4,9 +4,10 @@
     <property name="created">2022-11-09T11:43:01</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-16T11:08:08</property>
+    <property name="modified">2023-03-10T00:19:54</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="rainbow Default language">true</property>
+    <property name="rainbow 默认语言">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -3060,8 +3061,6 @@
         <option name="FOREGROUND" value="546e7a" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
