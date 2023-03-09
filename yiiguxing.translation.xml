@@ -1,46 +1,18 @@
 <application>
-  <component name="AppStorage">
-    <histories>
-      <item value="synonym" />
-      <item value="transition" />
-      <item value="invocation" />
-      <item value="Criteria" />
-      <item value="existent" />
-      <item value="Ingestion" />
-      <item value="concatenation" />
-      <item value="retain" />
-      <item value="Dedup" />
-      <item value="Hybrid" />
-      <item value="delegate" />
-      <item value="wrapper" />
-      <item value="wrap" />
-      <item value="deposit" />
-      <item value="decorate Vertex" />
-      <item value="Represents an operation upon two {@code long}-valued operands and producing a {@code long}-valued result. This is the primitive type specialization of {@link BinaryOperator} for {@code long}. &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;a&gt; whose functional method is {@link applyAsLong(long, long)}." />
-      <item value="A stage of a possibly asynchronous computation, that performs an action or computes a value when another CompletionStage completes. A stage completes upon termination of its computation, but this may in turn trigger other dependent stages. The functionality defined in this interface takes only a few basic forms, which expand out to a larger set of methods to capture a range of usage styles: &lt;ul&gt;" />
-      <item value="stage" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="4" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1669603632901" />
-  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671348328172" />
+    <option name="lastTrimTime" value="1678331294546" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Multiple" />
+      <item value="CONCLUSION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
