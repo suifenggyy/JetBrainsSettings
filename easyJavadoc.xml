@@ -10,11 +10,12 @@
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
         <entry key="asdi-fork" />
-        <entry key="select_engine">
+        <entry key="odps">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="select_engine" />
         <entry key="simple_java" />
       </map>
     </option>
