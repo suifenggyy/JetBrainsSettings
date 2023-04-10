@@ -6,7 +6,11 @@
     <option name="projectWordMap">
       <map>
         <entry key="alsc-selection-batch" />
-        <entry key="alsc-selection-ops" />
+        <entry key="alsc-selection-ops">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
         <entry key="asdi-fork" />
