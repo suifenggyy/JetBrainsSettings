@@ -14,6 +14,7 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
+    <option name="indicatorStyle" value="空白" />
     <option name="customSidebarHeight" value="20" />
     <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="14" />
@@ -21,5 +22,6 @@
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="10e74e9c:1845a2fe2b3:-8000" />
     <option name="version" value="8.4.1" />
+    <option name="tabHighlightPosition" value="底部" />
   </component>
 </application>
