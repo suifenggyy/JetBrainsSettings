@@ -4,7 +4,7 @@
     <property name="created">2022-11-09T11:43:01</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-09T14:03:19</property>
+    <property name="modified">2023-04-19T14:23:11</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2323,8 +2323,6 @@
         <option name="FOREGROUND" value="9580ff" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9580ff" />
