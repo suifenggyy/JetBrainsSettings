@@ -21,6 +21,7 @@
         <entry key="aws.codewhisperer" value="false" />
         <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
         <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
+        <entry key="git" value="true" />
         <entry key="mtProjectFactory" value="false" />
         <entry key="mtThemeFactory" value="false" />
       </map>
