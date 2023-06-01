@@ -6,17 +6,18 @@
     <option name="projectWordMap">
       <map>
         <entry key="alikbadump-parent" />
-        <entry key="alsc-selection-batch">
+        <entry key="alsc-cloud-board-mng">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="alsc-selection-ops">
+        <entry key="alsc-selection-batch" />
+        <entry key="alsc-selection-ops" />
+        <entry key="alscomp">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
         <entry key="asdi-fork" />
         <entry key="malgo" />
