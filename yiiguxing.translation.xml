@@ -1,12 +1,13 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684397605606" />
+    <option name="lastTrimTime" value="1688614782843" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Approval" />
       <item value="INTERVAL" />
       <item value="COALESCE" />
       <item value="生成文件超时, 请1min后在OSS路径下查询文件是否生成,或稍后重新请求. OSS文件夹路径:" />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
