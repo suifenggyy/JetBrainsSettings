@@ -8,7 +8,8 @@
         <entry key="alikbadump-parent" />
         <entry key="alsc-cloud-board-mng" />
         <entry key="alsc-selection-batch" />
-        <entry key="alsc-selection-ops">
+        <entry key="alsc-selection-ops" />
+        <entry key="alsc_ares_engine">
           <value>
             <map />
           </value>
@@ -18,7 +19,11 @@
         <entry key="asdi-fork" />
         <entry key="malgo" />
         <entry key="odps" />
-        <entry key="select_engine" />
+        <entry key="select_engine">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="simple_java" />
       </map>
     </option>
