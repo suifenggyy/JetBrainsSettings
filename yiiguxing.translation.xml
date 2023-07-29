@@ -1,12 +1,13 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688614782843" />
+    <option name="lastTrimTime" value="1690461083679" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="permit" />
       <item value="Approval" />
       <item value="INTERVAL" />
       <item value="COALESCE" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
