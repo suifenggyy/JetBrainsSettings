@@ -1,5 +1,6 @@
 <application>
   <component name="aminer-codegeex">
     <option name="telemetryConfigured" value="true" />
+    <option name="enableCompletions" value="false" />
   </component>
 </application>
