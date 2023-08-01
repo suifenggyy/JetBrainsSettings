@@ -14,16 +14,8 @@
           </value>
         </entry>
         <entry key="alsc_ares_engine" />
-        <entry key="alscomp">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="ares-dump-udtf">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="alscomp" />
+        <entry key="ares-dump-udtf" />
         <entry key="asdi-fork" />
         <entry key="malgo" />
         <entry key="odps" />
