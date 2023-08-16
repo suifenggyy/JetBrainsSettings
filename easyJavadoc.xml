@@ -17,6 +17,11 @@
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
         <entry key="asdi-fork" />
+        <entry key="luoyan_turing_config_test">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="malgo" />
         <entry key="odps" />
         <entry key="select_engine" />
