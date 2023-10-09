@@ -5,6 +5,7 @@
       <mapping ext="q" type="OdpsQL" />
       <mapping ext="odpsql" type="OdpsQL" />
       <mapping pattern="Dockerfile_production1" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ddl" approved="true" type="SQL" />
       <removed_mapping ext="psd" approved="true" type="Image" />
