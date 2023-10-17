@@ -1,9 +1,9 @@
 <application>
   <component name="SmartInputUserInfoState">
-    <option name="scenesChangeHitCloseAdvise" value="1" />
+    <option name="scenesChangeHitCloseAdvise" value="2" />
     <option name="licenseInfo" value="{&quot;earlyToExpire&quot;:true,&quot;effective&quot;:true,&quot;expireTimestamp&quot;:1699181485898,&quot;expired&quot;:false,&quot;license&quot;:&quot;od76Fo60drFdeInc3f5S83Fi7KlN1r48000058ODF1azhMMDE3NkRRZ05wZ56TgPiR8XRxeCdTdci7B+xlD3JGe2FgAcMMQjzu1E20zGy4evxxIJgrBwtqNfysKw==Xkh8s0SsjC9xb31r3qdwVl5+GUjcczRaGoGzRZ5JwNYT/rXxuMz+6OKHYt4i6+Csx3NfZWI254CbJSZdEUWMWlE2AzuSL7VWzeus9c1z04uYY2zPpSEwBDhbcviWNdFixYWv2/U8oVvrnMjyW2L9prYDRE0y2PTZ3LrjLCBCivsR5NoF0Z8tGmpmbAieA13Z5gx551Sst9QF3bSp8iJzWx2YX+x3sWf3OU68a2UeiiK6vc2qGYyLg6LjUST66xA3lIVD+2WiAquDGPESiVYSdnbgL7ty/Z4FGKtW+uPDEnZXzuv5ZOr3vduSn0hCFikLbZv8POa+IsUT1b4gZ8/HWA==&quot;,&quot;uuid&quot;:&quot;7C8B5067-9375-50AF-9B77-F650704C48EB&quot;}" />
     <option name="languageChangeCumulativeTimes" value="356" />
-    <option name="todayLanguageChangeTimes" value="39" />
-    <option name="lastFrameStateActivateTimestamp" value="1697513317748" />
+    <option name="todayLanguageChangeTimes" value="52" />
+    <option name="lastFrameStateActivateTimestamp" value="1697522125935" />
   </component>
 </application>
