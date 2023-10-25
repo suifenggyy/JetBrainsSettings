@@ -3,7 +3,14 @@
     <original-file-types />
   </component>
   <component name="DBNavigator.Application.PluginConflictManager">
+    <plugin-conflict-prompted value="false" />
     <file-types-claimed value="true" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
+    </plugin-statuses>
   </component>
   <component name="DBNavigator.Application.Settings">
     <diagnostics>
@@ -15,7 +22,6 @@
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
       <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
-    <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />

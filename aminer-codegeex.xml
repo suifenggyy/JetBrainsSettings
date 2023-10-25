@@ -2,5 +2,8 @@
   <component name="aminer-codegeex">
     <option name="telemetryConfigured" value="true" />
     <option name="enableCompletions" value="false" />
+    <option name="configCacheSeconds" value="43200" />
+    <option name="minCompletionDelay" value="500" />
+    <option name="lastPluginVersion" value="2.1.1" />
   </component>
 </application>
