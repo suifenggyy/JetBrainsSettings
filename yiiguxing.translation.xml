@@ -1,12 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695191376462" />
+    <option name="lastTrimTime" value="1698737070904" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="according" />
+      <item value="determinvalue" />
       <item value="Validate" />
       <item value="Cursor" />
       <item value="Acquires the lock unless the current thread is interrupted. Acquires the lock if it is not held by another thread and returns immediately, setting the lock hold count to one. If the current thread already holds this lock then the hold count is incremented by one and the method returns immediately. If the lock is held by another thread then the current thread becomes disabled for thread scheduling purposes and lies dormant until one of two things happens: The lock is acquired by the current thread; or Some other thread interrupts the current thread. If the lock is acquired by the current thread then the lock hold count is set to one. If the current thread: has its interrupted status set on entry to this method; or is interrupted while acquiring the lock, then InterruptedException is thrown and the current thread's interrupted status is cleared. In this implementation, as this method is an explicit interruption point, preference is given to responding to the interrupt over normal or reentrant acquisition of the lock. Throws: InterruptedException – if the current thread is interrupted" />
@@ -23,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>

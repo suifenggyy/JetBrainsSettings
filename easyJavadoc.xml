@@ -17,6 +17,16 @@
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
         <entry key="asdi-fork" />
+        <entry key="eleme_cloud_turing_config">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="eleme_rankinglist_tapi_config">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="luoyan_turing_config_test" />
         <entry key="malgo" />
         <entry key="odps" />
