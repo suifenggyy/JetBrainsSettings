@@ -11,6 +11,7 @@
       <status project="$USER_HOME$/koubei/alsc-selection-ops" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/simple_code" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/simple_java" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_cloud_turing_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cloud-board-mng" dbn="PASSIVE" sql="MISSING" />

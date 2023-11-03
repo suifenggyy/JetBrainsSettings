@@ -1,10 +1,11 @@
 <application>
   <component name="AoneCopilotSettings">
+    <option name="completionEvenIdeCompletionPopup" value="false" />
     <option name="debounceTime" value="100" />
+    <option name="enable" value="false" />
     <option name="httpProxy" value="" />
     <option name="lastUpdateTimeSeconds" value="1698204553" />
     <option name="pluginConflictHasBeenShown" value="true" />
-    <option name="pluginHasNewVersion" value="true" />
     <option name="userToken" value="vdAUsmJi5V8tav79g8wY" />
   </component>
 </application>
