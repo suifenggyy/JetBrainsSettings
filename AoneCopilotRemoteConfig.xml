@@ -85,7 +85,7 @@
     <option name="remoteConfigResponse">
       <RemoteConfigResponse>
         <option name="abTestProjectId" value="Prompt-And-Model-AB-Test" />
-        <option name="abTestTag" value="layer-models-prompt-length=zone-models-4000-prompt-length;layer-models=zone-models-0913-3B-4000-topP;layer-rich-prompt-switch=zone-disable-rich-prompt" />
+        <option name="abTestTag" value="layer-models-prompt-length=zone-models-4000-prompt-length;layer-models=zone-models-model-3B-0913;layer-rich-prompt-switch=zone-disable-rich-prompt" />
         <option name="chat">
           <ChatConfig>
             <option name="openChatWindowWhenStart" value="false" />
