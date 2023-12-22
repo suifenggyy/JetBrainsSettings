@@ -2,15 +2,17 @@
   <component name="MaterialThemeConfig">
     <option name="compactTables" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="customSidebarHeight" value="24" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="accentColor" value="79c0ff" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-5ca74cf1:18c8cc5b41d:-8000" />
-    <option name="version" value="8.6.4" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>
