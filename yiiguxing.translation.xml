@@ -7,6 +7,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cartesian Product" />
       <item value="polish" />
       <item value="Discarding" />
       <item value="according" />
@@ -27,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
