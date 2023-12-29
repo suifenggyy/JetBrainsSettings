@@ -5,7 +5,11 @@
     <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
-        <entry key="alikbadump-parent" />
+        <entry key="alikbadump-parent">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alsc-cloud-board-mng" />
         <entry key="alsc-selection-batch" />
         <entry key="alsc-selection-ops">
@@ -16,6 +20,11 @@
         <entry key="alsc_ares_engine" />
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
+        <entry key="asdi-alipay">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="asdi-fork" />
         <entry key="eleme_cloud_turing_config" />
         <entry key="eleme_rankinglist_tapi_config" />
