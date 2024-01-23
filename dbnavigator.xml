@@ -18,6 +18,7 @@
       <status project="$USER_HOME$/koubei/asdi-project" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/select_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_cloud_turing_config" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/seachportal" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-offline-label" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-flink-common/alsc-selection-flink" dbn="PASSIVE" sql="MISSING" />
