@@ -1,12 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705636107848" />
+    <option name="lastTrimTime" value="1706255828457" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="GOOGLE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="请求中的Export Type未配置正确的Main Doc Type" />
       <item value="unsolvable" />
       <item value="arithmetic" />
       <item value="Integration" />
