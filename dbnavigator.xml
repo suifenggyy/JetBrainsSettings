@@ -12,6 +12,7 @@
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alikb-adump" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/SwiftSourceParser" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/eleme-dump-udtf" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_ares_dump" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-itemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/simple_code" dbn="PASSIVE" sql="MISSING" />
