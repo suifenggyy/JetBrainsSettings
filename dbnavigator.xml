@@ -8,26 +8,27 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
-      <status project="$USER_HOME$/koubei/alsc-selection-ops" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alikb-adump" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/SwiftSourceParser" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/eleme-dump-udtf" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/alsc_ares_dump" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-itemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/simple_code" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/asdi-project" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/select_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_cloud_turing_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/seachportal" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-offline-label" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-flink-common/alsc-selection-flink" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/simple_java" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/alsc_search_trend_algo_tpp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-alipay" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cloud-board-mng" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc-selection-ops" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/eleme-dump-udtf" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_ares_dump" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/asdi-project" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/select_engine" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_search_trend_algo_tpp" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/kbtsearchmng" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-batch" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-fork" dbn="PASSIVE" sql="MISSING" />
