@@ -12,9 +12,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="DBNavigator.Project.DatasetEditorStatusBarWidgetFactory" value="false" />
         <entry key="git" value="true" />
-        <entry key="leetcode-editor-TimerStatusBar" value="false" />
         <entry key="mtThemeFactory" value="false" />
       </map>
     </option>
