@@ -1,9 +1,17 @@
 <application>
   <component name="aminer-codegeex">
     <option name="telemetryConfigured" value="true" />
-    <option name="enableCompletions" value="false" />
+    <option name="sessionId" value="e3fa026e-1a13-460e-8dc1-725ef31abde6" />
+    <option name="macAddress" value="32-A7-12-B2-12-6F" />
+    <option name="userId" value="19e8aec198724050add3f7625aeccb8d" />
+    <option name="userName" value="新用户71893" />
+    <option name="source" value="codeGeeX" />
+    <option name="sourceId" value="19e8aec198724050add3f7625aeccb8d" />
     <option name="configCacheSeconds" value="43200" />
     <option name="minCompletionDelay" value="500" />
+    <option name="serverConfig">
+      <JsonObject />
+    </option>
     <option name="lastPluginVersion" value="2.1.1" />
   </component>
 </application>
