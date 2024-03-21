@@ -23,6 +23,7 @@
       <status project="$USER_HOME$/koubei/odps" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-alipay" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cloud-board-mng" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/odps_project" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-ops" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme-dump-udtf" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_ares_dump" dbn="PASSIVE" sql="MISSING" />
