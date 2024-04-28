@@ -1,10 +1,11 @@
 <application>
   <component name="SmartInputUserInfoState">
     <option name="delayCheckOnceTip" value="true" />
-    <option name="scenesChangeHitCloseAdvise" value="23" />
-    <option name="licenseInfo" value="{&quot;connectFailed&quot;:false,&quot;earlyToExpire&quot;:true,&quot;effective&quot;:true,&quot;expireTimestamp&quot;:1714406400000,&quot;expired&quot;:false,&quot;license&quot;:&quot;r8HJe3wKy7o44NW3LflJgg8jOzQLB7CJ000058Nm5IcXY0OTZHbTFuYTNwMc4yvSoRT+VxLFHfoSP84uMKYLIpiTRRG1+YARMVfuLVHw5cltvG80XDtNzTckpEdA==WApAoqBnnGJnSYUaEQA1VZJBVeXMf0W6cyw2igFsRHQa3kySk/EB8lcHyIzBr60ZxJCKb5D/3jtW2/I2lqbGP3zVhPH4MUv5xD5EWogPkGvsACDRYBCQ4N0lrERj7VyApzcade2wf+M8vrgc2MaNxwu+FV4Ods5os3JCXKMCtGucYPkQ2OjjwMiQPJ3vVRA5kzMa45LBAlVlkWCCBYQVOmxEqcjsp5yboi2GyPOSXtlWV5pfdwC+yF+DOrfW3LKNmtFxeJ3YhHdedDs5mpXbnnWeQsf2Kg2nbT7Ozo3XTMsHISOj5h5IXd1wb2yJjl/c3WRz8CVRs6UDSmOs/fl54A==&quot;,&quot;offline&quot;:false,&quot;uuid&quot;:&quot;7C8B5067-9375-50AF-9B77-F650704C48EB&quot;}" />
-    <option name="languageChangeCumulativeTimes" value="4744" />
-    <option name="lastFrameStateActivateTimestamp" value="1714197373031" />
+    <option name="scenesChangeHitCloseAdvise" value="24" />
+    <option name="licenseInfo" value="{&quot;connectFailed&quot;:false,&quot;earlyToExpire&quot;:true,&quot;effective&quot;:true,&quot;expireTimestamp&quot;:1719417600000,&quot;expired&quot;:false,&quot;license&quot;:&quot;2Jlq1k8mX3DD835lb1H3485MsO8sKwgg000058bTNqMXZVTzIxVHhzR200WBeBGYul+MSywabaARcdayxUJQGQkyC+EmPidnlKt4OF4NBBK/5of9vDa2AWs19G/g==BSlQjPpXsn2clQFAEzxQjBO8YvR6XlXhgoDk3flsGdux3S+Sljjyxn1YTVRasYk/yU3kB5c1o6Y/fYC1e9++G0Hx4kvQh6NPeedw4o9B5pDc+5PCS2FjVHL1JtUQlcntYYZyVZC5h9me7yZauQ7jnFpOiHL94PMfUA6bPodK4396sgbEa9LNHMVWzBSaIcQlvvj6qdZozkMl6kLb21H4788UlCDXyWNRVfDDrNtmc5O4CXYLI+CQmBAsckIl3YS7HJe/bp6btGUzdbApmn1oB3i8/yb1wvUHtFiBQVR1quU1PfKxLBeX8U/oe/RCmboNRICnaugxJzgQ5paVx6IjVw==&quot;,&quot;offline&quot;:false,&quot;uuid&quot;:&quot;7C8B5067-9375-50AF-9B77-F650704C48EB&quot;}" />
+    <option name="languageChangeCumulativeTimes" value="4829" />
+    <option name="todayLanguageChangeTimes" value="10" />
+    <option name="lastFrameStateActivateTimestamp" value="1714285869908" />
     <option name="hasShowStartedGuide" value="true" />
   </component>
 </application>
