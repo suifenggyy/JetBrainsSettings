@@ -11,8 +11,8 @@
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alikb-adump" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/SwiftSourceParser" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/alsc-itemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/simple_code" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc-itemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/streaming-with-flink" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_cloud_turing_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/seachportal" dbn="PASSIVE" sql="MISSING" />
@@ -32,6 +32,7 @@
       <status project="$USER_HOME$/koubei/asdi-project" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/select_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_search_trend_algo_tpp" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_mktalgo_price_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/kbtsearchmng" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-batch" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
