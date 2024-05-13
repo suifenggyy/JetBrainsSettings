@@ -7,6 +7,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="archiver" />
       <item value="calibrate" />
       <item value="Alignment" />
       <item value="非真实发送" />
@@ -37,8 +38,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>

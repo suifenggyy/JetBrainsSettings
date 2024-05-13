@@ -10,6 +10,11 @@
         <entry key="alsc-selection-batch" />
         <entry key="alsc-selection-ops" />
         <entry key="alsc_ares_engine" />
+        <entry key="alsc_mkt_signal_center">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alsc_mktalgo_price_engine">
           <value>
             <map />
