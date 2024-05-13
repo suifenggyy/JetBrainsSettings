@@ -1,12 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712476939355" />
+    <option name="lastTrimTime" value="1715568759382" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="calibrate" />
+      <item value="Alignment" />
       <item value="非真实发送" />
       <item value="Checks whether local variables shade global ones. After a symbol is defined as local, dereferencing it outside its scope will trigger an error instead of seeking a global variable of the same name. To further reduce potential naming ambiguity errors, global variables (ie non local) must be declared to be assigned (@link JexlContexthas(String) ) when this flag is on; attempting to set an undeclared global variables will raise an error." />
       <item value="请求中的Export Type未配置正确的Main Doc Type" />
@@ -35,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
