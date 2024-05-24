@@ -4,9 +4,18 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="63b0de4ba0a22178" />
+      </youdao-translate>
+    </option>
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="User Tags Loader" />
+      <item value="KB Recommendation" />
+      <item value="arbitrate" />
       <item value="protein" />
       <item value="regional" />
       <item value="archiver" />
@@ -40,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
