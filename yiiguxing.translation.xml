@@ -4,7 +4,7 @@
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="YOUDAO" />
+    <option name="translator" value="GOOGLE" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="63b0de4ba0a22178" />
