@@ -2,15 +2,17 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="009688" />
+        <option name="accentColorHex" value="589df6" />
       </MTAccentConfigState>
     </option>
     <option name="compactState">
       <MTCompactConfigState>
         <option name="compactDropdowns" value="true" />
         <option name="compactFields" value="true" />
+        <option name="compactListItems" value="true" />
         <option name="compactMenus" value="true" />
         <option name="compactTables" value="true" />
+        <option name="customListItemSize" value="24" />
       </MTCompactConfigState>
     </option>
     <option name="metadata">
@@ -24,7 +26,7 @@
     </option>
     <option name="projectTreeState">
       <MTProjectTreeConfigState>
-        <option name="customLineHeight" value="23" />
+        <option name="customLineHeight" value="20" />
         <option name="customLineHeightEnabled" value="true" />
       </MTProjectTreeConfigState>
     </option>
@@ -32,6 +34,11 @@
       <MTTabsConfigState>
         <option name="tabsHeight" value="24" />
       </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="NATIVE" />
+      </MTThemeConfigState>
     </option>
   </component>
 </application>

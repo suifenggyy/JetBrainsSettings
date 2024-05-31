@@ -1,9 +1,10 @@
 <application>
   <component name="LafManager">
-    <laf themeId="OCEANIC" />
+    <laf themeId="Darcula" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="CUSTOM" scheme="_@user_Material Oceanic" />
-      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Monokai Pro (Material)" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Dracula (Material)" />
+      <laf-to-scheme laf="OCEANIC" scheme="_@user_Dracula (Material)" />
     </lafs-to-previous-schemes>
   </component>
 </application>
