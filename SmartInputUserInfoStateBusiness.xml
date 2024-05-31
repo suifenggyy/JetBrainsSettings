@@ -1,9 +1,9 @@
 <application>
   <component name="SmartInputUserInfoStateBusiness">
-    <option name="checkExceptionLatestTipTimestamp" value="1717061219150" />
+    <option name="checkExceptionLatestTipTimestamp" value="1717122432579" />
     <option name="licenseInfo" value="{&quot;blank&quot;:true,&quot;earlyToExpire&quot;:false,&quot;effective&quot;:false,&quot;expired&quot;:false,&quot;offline&quot;:false,&quot;uuid&quot;:&quot;&quot;}" />
     <option name="languageChangeCumulativeTimes" value="1" />
-    <option name="lastFrameStateActivateTimestamp" value="1717122425657" />
+    <option name="lastFrameStateActivateTimestamp" value="1717126886155" />
     <option name="hasShowStartedGuide" value="true" />
   </component>
 </application>
