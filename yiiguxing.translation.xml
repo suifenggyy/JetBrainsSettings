@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1716196543220" />
+    <option name="lastTrimTime" value="1717738894234" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="bypass flow" />
       <item value="User Tags Loader" />
       <item value="KB Recommendation" />
       <item value="arbitrate" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
