@@ -29,8 +29,12 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
   </colors>
   <attributes>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
