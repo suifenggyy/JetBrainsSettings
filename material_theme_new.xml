@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="009688" />
+        <option name="accentColorHex" value="ff9800" />
       </MTAccentConfigState>
     </option>
     <option name="compactState">
@@ -34,6 +34,11 @@
       <MTTabsConfigState>
         <option name="tabsHeight" value="24" />
       </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="DARKER" />
+      </MTThemeConfigState>
     </option>
   </component>
 </application>
