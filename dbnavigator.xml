@@ -46,6 +46,7 @@
       <status project="$USER_HOME$/koubei/alsc-selection-batch" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-fork" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_mktalgo_price" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
   </component>
   <component name="DBNavigator.Application.Settings">

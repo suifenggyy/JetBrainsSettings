@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1717738894234" />
+    <option name="lastTrimTime" value="1718175823364" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Integration" />
       <item value="Entrust" />
       <item value="bypass flow" />
       <item value="User Tags Loader" />
@@ -28,7 +29,6 @@
       <item value="请求中的Export Type未配置正确的Main Doc Type" />
       <item value="unsolvable" />
       <item value="arithmetic" />
-      <item value="Integration" />
       <item value="fetch" />
       <item value="cartesian Product" />
       <item value="polish" />
@@ -51,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
