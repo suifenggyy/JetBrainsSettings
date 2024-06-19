@@ -5,22 +5,19 @@
     <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
-        <entry key="alikbadump-parent">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="alikbadump-parent" />
         <entry key="alsc-aoi-mng" />
         <entry key="alsc-cloud-board-mng" />
         <entry key="alsc-selection-batch" />
         <entry key="alsc-selection-ops" />
-        <entry key="alsc-upp-core">
+        <entry key="alsc-upp-core" />
+        <entry key="alsc_ares_engine" />
+        <entry key="alsc_mkt_signal_center" />
+        <entry key="alsc_mktalgo_price">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="alsc_ares_engine" />
-        <entry key="alsc_mkt_signal_center" />
         <entry key="alsc_mktalgo_price_engine" />
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
@@ -28,16 +25,22 @@
         <entry key="asdi-fork" />
         <entry key="eleme_cloud_turing_config" />
         <entry key="eleme_rankinglist_tapi_config" />
-        <entry key="gbf_simple">
+        <entry key="gbf_simple" />
+        <entry key="luoyan_turing_config_test" />
+        <entry key="malgo" />
+        <entry key="modi_dilate">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="luoyan_turing_config_test" />
-        <entry key="malgo" />
         <entry key="odps" />
         <entry key="select_engine" />
         <entry key="simple_java" />
+        <entry key="taya_sky_fall_entrust">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
