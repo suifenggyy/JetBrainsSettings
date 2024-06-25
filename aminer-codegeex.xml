@@ -11,7 +11,7 @@
     <option name="minCompletionDelay" value="500" />
     <option name="autoUpdateVersion" value="2.7.3" />
     <option name="autoUpdateProperty" value="{ &quot;auto&quot;: true, &quot;is_force&quot;: false }" />
-    <option name="applyNextLineCount" value="10" />
+    <option name="applyNextLineCount" value="11" />
     <option name="lastPluginVersion" value="2.7.2" />
   </component>
 </application>
