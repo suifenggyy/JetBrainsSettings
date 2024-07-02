@@ -18,7 +18,11 @@
             <map />
           </value>
         </entry>
-        <entry key="alsc_mktalgo_price_engine" />
+        <entry key="alsc_mktalgo_price_engine">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
         <entry key="asdi-alipay" />
@@ -36,11 +40,7 @@
         <entry key="odps" />
         <entry key="select_engine" />
         <entry key="simple_java" />
-        <entry key="taya_sky_fall_entrust">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="taya_sky_fall_entrust" />
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
