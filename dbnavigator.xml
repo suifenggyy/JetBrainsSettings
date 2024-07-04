@@ -15,6 +15,7 @@
       <status project="$USER_HOME$/koubei/simple_code" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-itemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_mkt_right_center" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc-galaxyapp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/streaming-with-flink" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_cloud_turing_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/seachportal" dbn="PASSIVE" sql="MISSING" />
