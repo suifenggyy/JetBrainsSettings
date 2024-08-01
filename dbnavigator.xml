@@ -40,6 +40,7 @@
       <status project="$USER_HOME$/koubei/alscPromoAlgoEngine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-project" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/select_engine" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_promo_algo_tpp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/gbf_simple" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/modi_dilate" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_search_trend_algo_tpp" dbn="PASSIVE" sql="MISSING" />
