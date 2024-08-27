@@ -31,6 +31,7 @@
       <status project="$USER_HOME$/koubei/simple_java" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-alipay" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc-upp-core的副本" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cloud-board-mng" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps_project" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_ares_engine" dbn="PASSIVE" sql="MISSING" />
