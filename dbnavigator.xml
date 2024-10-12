@@ -50,6 +50,7 @@
       <status project="$USER_HOME$/koubei/FlinkQuickStart" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/gbf_simple" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/modi_dilate" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/seachportal-fork" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_mktalgo_price_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-upp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/kbtsearchmng" dbn="PASSIVE" sql="MISSING" />
