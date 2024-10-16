@@ -14,11 +14,7 @@
         <entry key="alsc-upp-core" />
         <entry key="alscPromoAlgoEngine" />
         <entry key="alsc_ares_engine" />
-        <entry key="alsc_markting_invest">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="alsc_markting_invest" />
         <entry key="alsc_mkt_signal_center" />
         <entry key="alsc_mktalgo_price" />
         <entry key="alsc_mktalgo_price_engine" />
@@ -32,7 +28,11 @@
         <entry key="eleme_rankinglist_tapi_config" />
         <entry key="gbf_simple" />
         <entry key="luoyan_turing_config_test" />
-        <entry key="malgo" />
+        <entry key="malgo">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="modi_dilate" />
         <entry key="odps" />
         <entry key="select_engine" />

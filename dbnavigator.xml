@@ -20,6 +20,7 @@
       <status project="$USER_HOME$/koubei/alsc_markting_invest" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_markting_invest的副本" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-upp-core的副本" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/malgo" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_ares_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-ops" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme-dump-udtf" dbn="PASSIVE" sql="MISSING" />
