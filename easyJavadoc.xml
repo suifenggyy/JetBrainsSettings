@@ -5,13 +5,22 @@
     <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
+        <entry key="ServingStartup-1.0-SNAPSHOT">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alikbadump-parent" />
         <entry key="alsc-aoi-mng" />
         <entry key="alsc-cloud-board-mng" />
         <entry key="alsc-galaxyapp" />
         <entry key="alsc-selection-batch" />
         <entry key="alsc-selection-ops" />
-        <entry key="alsc-upp-core" />
+        <entry key="alsc-upp-core">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alscPromoAlgoEngine" />
         <entry key="alsc_ares_engine" />
         <entry key="alsc_markting_invest" />
@@ -35,6 +44,11 @@
         </entry>
         <entry key="modi_dilate" />
         <entry key="odps" />
+        <entry key="online_res_alloc">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="select_engine" />
         <entry key="simple_java" />
         <entry key="taya_sky_fall_entrust" />
