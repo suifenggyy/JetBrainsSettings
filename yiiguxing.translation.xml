@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1720578820957" />
+    <option name="lastTrimTime" value="1729327731547" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="dual" />
       <item value="Regulation" />
       <item value="DILATE" />
       <item value="Integration" />
@@ -54,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
