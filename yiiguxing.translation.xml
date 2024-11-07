@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="constraint" />
       <item value="paral" />
       <item value="dual" />
       <item value="Regulation" />
@@ -57,7 +58,8 @@
       <map>
         <entry key="CATALAN" value="2" />
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="39" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
