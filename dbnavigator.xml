@@ -49,6 +49,7 @@
       <status project="$USER_HOME$/koubei/asdi-alipay" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cloud-board-mng" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps_project" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/queqiao-solar-runtime" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_mkt_signal_center" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alscPromoAlgoEngine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-project" dbn="PASSIVE" sql="MISSING" />
