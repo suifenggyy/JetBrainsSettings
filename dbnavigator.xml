@@ -36,6 +36,7 @@
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alikb-adump" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/taya_sky_fall_entrust" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/flink-solver" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/SwiftSourceParser" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-itemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/streaming-with-flink" dbn="PASSIVE" sql="MISSING" />
