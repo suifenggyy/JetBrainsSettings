@@ -48,6 +48,7 @@
       <status project="$USER_HOME$/koubei/simple_java" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-alipay" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/flink-run-demo" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cloud-board-mng" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps_project" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/queqiao-solar-runtime" dbn="PASSIVE" sql="MISSING" />
