@@ -1,4 +1,9 @@
 <application>
+  <component name="DBNavigator.Application.DatabaseDriverManager">
+    <known-driver-classes>
+      <library checksum="-1952963915" path="$APPLICATION_PLUGINS_DIR$/DBNavigator/lib/ext/bundled-jdbc-mysql" driver-classes="com.mysql.cj.jdbc.Driver,com.mysql.cj.jdbc.NonRegisteringDriver,com.mysql.jdbc.Driver" />
+    </known-driver-classes>
+  </component>
   <component name="DBNavigator.Application.FileTypeService">
     <original-file-types />
   </component>
@@ -18,6 +23,7 @@
       <status project="$USER_HOME$/koubei/mall4j" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/test_git" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/mall4m" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-offline-label" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_markting_invest" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_markting_invest的副本" dbn="PASSIVE" sql="MISSING" />
