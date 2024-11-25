@@ -19,8 +19,8 @@
       <status project="$USER_HOME$/koubei/30-Days-Of-Python" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Downloads/ServingStartup-1.0-SNAPSHOT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-flink-fork" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/alsc_mktalgo_b_subsidy" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/mall4j" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_mktalgo_b_subsidy" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/test_git" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/mall4m" dbn="PASSIVE" sql="MISSING" />
@@ -53,6 +53,7 @@
       <status project="$USER_HOME$/koubei/alsc-upp-core" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-flink-common/alsc-selection-flink" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/simple_java" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/Downloads/flink-solver-20241119-065428-1.0.5-SNAPSHOT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/odps" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-alipay" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/flink-run-demo" dbn="PASSIVE" sql="MISSING" />
