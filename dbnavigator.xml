@@ -20,7 +20,7 @@
       <status project="$USER_HOME$/Downloads/ServingStartup-1.0-SNAPSHOT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-flink-fork" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_mktalgo_b_subsidy" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/mall4j" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/mall4j" dbn="ACTIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/test_git" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/mall4m" dbn="PASSIVE" sql="MISSING" />
