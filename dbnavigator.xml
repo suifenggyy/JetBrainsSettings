@@ -39,6 +39,7 @@
       <status project="$USER_HOME$/koubei/select_engine" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_promo_algo_tpp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_search_trend_algo_tpp" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc-cauchy-udf" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-batch" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alikb-adump" dbn="PASSIVE" sql="MISSING" />
