@@ -1,5 +1,11 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModelSelected">
+      <map>
+        <entry key="chat" value="dashscope_deepseek_reasoner" />
+        <entry key="developer" value="default" />
+      </map>
+    </option>
     <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
@@ -33,6 +39,102 @@
     </option>
     <option name="recentComplexQueries">
       <map>
+        <entry key="alsc-cauchy|274567871110364870|AiDeveloper">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="/optimize" />
+                          <option name="id" value="OPTIMIZE_CODE" />
+                          <option name="text" value="/optimize" />
+                          <option name="type" value="task" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="167" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/koubei/alsc-cauchy/alsc-cauchy-service/src/main/java/com/alibaba/cauchy/schedulerx/FlinkSolverPredictProcessor.java#L167-L167" />
+                      <option name="name" value="$USER_HOME$/koubei/alsc-cauchy/alsc-cauchy-service/src/main/java/com/alibaba/cauchy/schedulerx/FlinkSolverPredictProcessor.java#L167-L167" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="167" />
+                      <option name="text" value="FlinkSolverPredictProcessor.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="flink-solver|274567871110364870">
           <value>
             <list>
@@ -161,5 +263,10 @@
     <option name="showInlineCancelTips" value="false" />
     <option name="showInlineNextTips" value="false" />
     <option name="showInlinePrevTips" value="false" />
+    <option name="taskInputs">
+      <map>
+        <entry key="274567871110364870:OPTIMIZE_CODE" value="" />
+      </map>
+    </option>
   </component>
 </application>
