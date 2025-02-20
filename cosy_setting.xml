@@ -39,6 +39,25 @@
     </option>
     <option name="recentComplexQueries">
       <map>
+        <entry key="alsc-cauchy|274567871110364870">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="如何从Calendar格式数据中获取小时数, 24小时格式" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="alsc-cauchy|274567871110364870|AiDeveloper">
           <value>
             <list>
