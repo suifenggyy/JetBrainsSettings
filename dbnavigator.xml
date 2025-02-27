@@ -19,10 +19,11 @@
       <status project="$USER_HOME$/koubei/30-Days-Of-Python" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Downloads/ServingStartup-1.0-SNAPSHOT" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/asdi-flink-fork" dbn="PASSIVE" sql="MISSING" />
-      <status project="$USER_HOME$/koubei/alsc_mktalgo_b_subsidy" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/mall4j" dbn="ACTIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_mktalgo_b_subsidy" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/eleme_rankinglist_tapi_config" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/test_git" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/alsc_mktalgo_price_framework" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/mall4m" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-offline-label" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_markting_invest" dbn="PASSIVE" sql="MISSING" />
@@ -85,7 +86,7 @@
       </developer-mode>
       <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
-      <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+      <miscellaneous dialog-sizing-reset="false" native-alerts-enabled="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
     <client-id value="ABF2CFF4BDED4E51B1A70436173EE0EF" />
   </component>
