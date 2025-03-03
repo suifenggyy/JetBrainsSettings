@@ -1,7 +1,7 @@
 <application>
   <component name="DBNavigator.Application.DatabaseDriverManager">
     <known-driver-classes>
-      <library checksum="-1952963915" path="$APPLICATION_PLUGINS_DIR$/DBNavigator/lib/ext/bundled-jdbc-mysql" driver-classes="com.mysql.cj.jdbc.Driver,com.mysql.cj.jdbc.NonRegisteringDriver,com.mysql.jdbc.Driver" />
+      <library checksum="1703243799" path="$APPLICATION_PLUGINS_DIR$/DBNavigator/lib/ext/bundled-jdbc-mysql" driver-classes="com.mysql.cj.jdbc.Driver,com.mysql.cj.jdbc.NonRegisteringDriver,com.mysql.jdbc.Driver" />
     </known-driver-classes>
   </component>
   <component name="DBNavigator.Application.FileTypeService">
