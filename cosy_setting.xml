@@ -154,6 +154,25 @@
             </list>
           </value>
         </entry>
+        <entry key="alsc_mktalgo_price|274567871110364870">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="class lombok.javac.apt.LombokProcessor (in unnamed module @0x4abb647) cannot access class com.sun.tools.javac.processing.JavacProcessingEnvironment (in module jdk.compiler) because module jdk.compiler does not export com.sun.tools.javac.processing to unnamed module @0x4abb647&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="flink-solver|274567871110364870">
           <value>
             <list>
