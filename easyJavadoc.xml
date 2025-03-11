@@ -23,7 +23,11 @@
           </value>
         </entry>
         <entry key="alsc_mkt_signal_center" />
-        <entry key="alsc_mktalgo_price" />
+        <entry key="alsc_mktalgo_price">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="alsc_mktalgo_price_engine" />
         <entry key="alsc_mktalgo_price_framework">
           <value>
