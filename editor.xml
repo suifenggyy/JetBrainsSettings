@@ -35,5 +35,9 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="luoyan*" />
+    <filter name="洛言">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>

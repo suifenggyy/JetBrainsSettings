@@ -6,4 +6,10 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="StringManipulation.ToCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="StringManipulation.ToScreamingSnakeCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
 </keymap>
