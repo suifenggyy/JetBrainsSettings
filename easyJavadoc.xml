@@ -17,23 +17,16 @@
         <entry key="alscPromoAlgoEngine" />
         <entry key="alsc_ares_engine" />
         <entry key="alsc_markting_invest" />
-        <entry key="alsc_mkt_right_center">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="alsc_mkt_right_center" />
         <entry key="alsc_mkt_signal_center" />
-        <entry key="alsc_mktalgo_price">
+        <entry key="alsc_mktalgo_coupon_aid_flink">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="alsc_mktalgo_price" />
         <entry key="alsc_mktalgo_price_engine" />
-        <entry key="alsc_mktalgo_price_framework">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="alsc_mktalgo_price_framework" />
         <entry key="alsc_promo_algo_tpp" />
         <entry key="alscomp" />
         <entry key="ares-dump-udtf" />
