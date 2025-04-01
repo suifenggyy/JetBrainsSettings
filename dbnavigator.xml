@@ -42,6 +42,7 @@
       <status project="$USER_HOME$/koubei/alsc_mktalgo_coupon_aid_flink" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alibabacloud-tablestore-mcp-server/tablestore-java-mcp-server" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc_search_trend_algo_tpp" dbn="PASSIVE" sql="MISSING" />
+      <status project="$USER_HOME$/koubei/kbitemrp" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-cauchy-udf" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alsc-selection-batch" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/koubei/alscomp" dbn="PASSIVE" sql="MISSING" />
