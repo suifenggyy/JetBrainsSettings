@@ -12,22 +12,19 @@
         <entry key="alsc-cloud-board-mng" />
         <entry key="alsc-galaxyapp" />
         <entry key="alsc-selection-batch" />
-        <entry key="alsc-selection-ops">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="alsc-selection-ops" />
         <entry key="alsc-upp-core" />
         <entry key="alscPromoAlgoEngine" />
         <entry key="alsc_ares_engine" />
         <entry key="alsc_markting_invest" />
         <entry key="alsc_mkt_right_center" />
         <entry key="alsc_mkt_signal_center" />
-        <entry key="alsc_mktalgo_coupon_aid_flink">
+        <entry key="alsc_mktalgo_coupon_aid">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="alsc_mktalgo_coupon_aid_flink" />
         <entry key="alsc_mktalgo_price" />
         <entry key="alsc_mktalgo_price_engine" />
         <entry key="alsc_mktalgo_price_framework" />
@@ -39,11 +36,7 @@
         <entry key="asdi-fork" />
         <entry key="eleme_cloud_turing_config" />
         <entry key="eleme_rankinglist_tapi_config" />
-        <entry key="flink-solver">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="flink-solver" />
         <entry key="gbf_simple" />
         <entry key="luoyan_turing_config_test" />
         <entry key="malgo" />
