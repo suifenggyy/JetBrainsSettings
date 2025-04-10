@@ -1,6 +1,14 @@
 <application>
   <component name="aws">
+    <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsFirstRestartAfterQInstall" value="false" />
+      </map>
+    </option>
   </component>
   <component name="codewhispererUserGroupSettings">
     <option name="settings">
@@ -9,5 +17,8 @@
       </map>
     </option>
     <option name="version" value="1.76-231" />
+  </component>
+  <component name="notificationEtag">
+    <option name="etag" value="&quot;3eb1f87f15ff45ce98e7109ce35d188a&quot;" />
   </component>
 </application>
