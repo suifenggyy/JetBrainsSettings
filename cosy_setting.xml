@@ -6,6 +6,8 @@
         <entry key="developer" value="default" />
       </map>
     </option>
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="$USER_HOME$/.lingma" />
     <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
